@@ -65,7 +65,7 @@ A proposta foi criar uma página com layout atrativo e responsivo, utilizando HT
 
 • jQuery e plugins de validação e máscara
 
-### 💻 Demonstração
+## 💻 Demonstração
 
 🔗 Para visualizar uma prévia do projeto, clique aqui
 
